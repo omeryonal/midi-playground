@@ -1,13 +1,34 @@
 {
+  "enabledPlugins": {
+    "andrej-karpathy-skills@karpathy-skills": true,
+    "superpowers@superpowers-dev": true,
+    "mattpocock-skills@mattpocock": true,
+    "ui-ux-pro-max@ui-ux-pro-max-skill": true
+  },
   "extraKnownMarketplaces": {
     "karpathy-skills": {
       "source": {
         "source": "github",
         "repo": "multica-ai/andrej-karpathy-skills"
       }
+    },
+    "superpowers-dev": {
+      "source": {
+        "source": "github",
+        "repo": "obra/superpowers"
+      }
+    },
+    "mattpocock": {
+      "source": {
+        "source": "github",
+        "repo": "mattpocock/skills"
+      }
+    },
+    "ui-ux-pro-max-skill": {
+      "source": {
+        "source": "github",
+        "repo": "nextlevelbuilder/ui-ux-pro-max-skill"
+      }
     }
-  },
-  "enabledPlugins": {
-    "andrej-karpathy-skills@karpathy-skills": true
   }
 }
